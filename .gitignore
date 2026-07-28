@@ -1,0 +1,9 @@
+.venv/
+venv/
+.venv-1/
+.venv-2/
+__pycache__/
+.pytest_cache/
+*.pyc
+temp_input.csv
+.streamlit/secrets.toml

@@ -1,0 +1,9 @@
+[project]
+name = "summative-assignment-mlop"
+version = "0.1.0"
+description = "Starter Python project for the Summative assignment - MLOP workspace"
+requires-python = ">=3.11"
+
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"

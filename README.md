@@ -4,6 +4,12 @@ Machine learning pipeline from data preprocessing through production deployment.
 
 ---
 
+## Demo
+
+- Video walkthrough: https://youtu.be/mfZaQU-ATE8
+
+---
+
 ## Project Overview
 
 This project showcases a professional MLOps pipeline with the following components:
@@ -394,7 +400,7 @@ git init
 git add .
 git commit -m "Prepare Iris MLOps app for Streamlit Cloud"
 git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+git remote add origin https://github.com/ikalisa1/https://github.com/ikalisa1/Kalisa-ivan_Summative-assignment---MLOP.git
 git push -u origin main
 ```
 
@@ -570,7 +576,7 @@ Solution: Connect project to GitHub first, then deploy from repository:
 2) git add .
 3) git commit -m "Initial deployment commit"
 4) git branch -M main
-5) git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+5) git remote add origin https://github.com/ikalisa1/https://github.com/ikalisa1/Kalisa-ivan_Summative-assignment---MLOP.git
 6) git push -u origin main
 ```
 
